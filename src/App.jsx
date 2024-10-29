@@ -2,7 +2,7 @@
 function App() {
 
   return (
-    <h1>Helloo</h1>
+    <h1 className="bg-amber-500">Helloo</h1>
   )
 }
 
