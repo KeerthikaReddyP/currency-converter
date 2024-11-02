@@ -2,7 +2,9 @@
 function App() {
 
   return (
-    <h1 className="bg-amber-500">Helloo</h1>
+    <div className="m-4">
+      <h1>Currency coverter</h1>
+    </div>
   )
 }
 
